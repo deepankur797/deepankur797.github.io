@@ -17,13 +17,14 @@ I created this site to share experience about my carrer. In case you found any i
 
 <object data="{{ site.url }}/Deepankur_Singh.pdf" width="1000" height="1000" type="application/pdf"></object>
 
+<!-- comment >
 <object data="Deepankur_Singh.pdf" type="application/pdf" width="100%" height="600px">
   <p>
     Your browser does not support PDF plugin.
     <a href="Deepankur_Singh.pdf" download>Download</a>
   </p>
 </object>
-
+<comment -->
 
 ***
 [**Homepage**](./)
