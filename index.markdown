@@ -16,7 +16,7 @@ Welcome, I am Deepankur. Consider this my brain dumping ground for anything I li
 <b>DevOps</b>			<b>Software Engineer</b>		<b>Infrastructure</b>
 Kubernetes
 Terraform			Python 				VMware vSphere
-vRealize Automation		 				GCP
+vRealize Automation			Golang				GCP
 vRealize Orchestrator						AWS
 Prometheus
 Powershell
@@ -39,12 +39,14 @@ var fun = functionlang(l){
 |<b>DevOps</b>|<b>Software Engineering</b>|<b>Infrastructure</b>|
 |---|---|---|
 ||||
+|Kubernetes| Golang| AWS|
 |Terraform|                       Python|                          VMware vSphere|
-|vRealize Automation|                     |                        GCP|
-|vRealize Orchestrator|                   |                        AWS|
-|Kubernetes|||
+|Github Actions|                     |                        GCP|
+|Docker|                   |                        Digital Ocean|
 |Prometheus|||
 |Powershell|||
 |Bash|||
 |Linux Administration|||
+|vRealize Automation|||
+|vRealize Orchestrator|||
 
